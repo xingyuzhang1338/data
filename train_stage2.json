@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "identity_1",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000395784.0026.11533300720.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the bottom of the stomach. A large ulcerative lesion was clearly observed at the bottom of the stomach, with its base covered by a layer of dull-colored, uneven-textured, filthy moss-like substance. Meanwhile, the gastric mucosa surrounding the ulcer exhibited irregular local elevations, with a surface morphology that was uneven and bumpy."
+      }
+    ]
+  },
+  {
+    "id": "identity_2",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000361172.0003.1495155514.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The esophageal mucosal surface is smooth and clean, without any roughness or abnormal protrusions. The blood vessel textures in the submucosal layer are distinctly clear and evenly distributed. The contraction and peristaltic functions of the esophagus appear normal, with no signs of any abnormal rhythm or functional impairment. "
+      }
+    ]
+  },
+  {
+    "id": "identity_3",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000361172.0007.1495155540.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the cardia of the stomach. The cardia is located approximately 40 centimeters away from the incisors, and the serrated line in this region is distinctly outlined and clearly discernible."
+      }
+    ]
+  },
+  {
+    "id": "identity_4",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000361172.0019.1495155654.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the descending segment of the duodenum of the stomach. After a meticulous medical imaging examination, the results indicate that no abnormalities were detected in the descending segment of the duodenum. Both its morphological structure and functional performance are in a normal state."
+      }
+    ]
+  },
+  {
+    "id": "identity_5",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000361172.0024.1495155677.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the lesser curvature side of the gastric antrum region of the stomach. An ulcerative lesion of considerable size is observed at this location. The base of the ulcer is covered with a yellowish-white mossy substance, and the surrounding gastric wall folds rise prominently like dams, converging toward the central lesion. Such morphological features are indicative of significant pathological alterations in the gastric mucosa."
+      }
+    ]
+  },
+  {
+    "id": "identity_6",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000361172.0031.1495155709.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the bottom of the stomach. The mucosa at the bottom of the stomach exhibits a smooth texture with uniform coloration, showing no apparent abnormal protrusions or rough areas. Additionally, the mucinous lake within the stomach appears clear and transparent, without any signs of turbidity or impurities. The secretion volume is moderate, neither excessive nor insufficient, indicating an overall good condition."
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000361172.0035.1495155728.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the lesser curvature side of the gastric antrum region of the stomach. A large ulcerative lesion was found, with its base covered by yellowish-white moss-like substance. The gastric wall folds surrounding the ulcer showed a distinct dike-like elevation, and these folds also converged towards the center of the ulcer, forming a typical pathological change manifestation."
+      }
+    ]
+  },
+  {
+    "id": "identity_8",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000387087.0005.12382600029.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the cardia of the stomach. The cardia is located approximately 40 centimeters from the incisors, and the demarcation of the dentate line appears less distinct. Below the dentate line, the mucosa can be observed to exhibit irregular elevations. The surfaces of these elevated mucosal areas show evident signs of congestion and ulceration, and are covered by a layer of filthy, moss-like substance. Simultaneously, the mucosa surrounding the elevations also displays clear indications of congestion."
+      }
+    ]
+  },
+  {
+    "id": "identity_9",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000387087.0010.12385800813.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the antrum region of the stomach. The mucosal surface of the antrum region presents a smooth texture, with a color distribution characterized by alternating red and white hues, giving an overall appearance reminiscent of a mottled pattern. This manifestation is a typical description of the state of the gastric mucosa."
+      }
+    ]
+  },
+  {
+    "id": "identity_10",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000387087.0011.12390400039.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosal surface of the stomach. The mucosal surface of the duodenal bulb appears smooth and delicate, with no signs of ulcerative lesions, indicating an overall good condition."
+      }
+    ]
+  },
+  {
+    "id": "identity_11",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000387087.0021.12395500178.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosa of the gastric fundus of the stomach. The mucosa shows significant congestion and edema, while the mucus lake appears clear and transparent."
+      }
+    ]
+  },
+  {
+    "id": "identity_12",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000388349.0019.10453400513.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the descending segment of the duodenum of the stomach. After a meticulous medical imaging examination, the results revealed that no abnormal signs were detected in the patient's descending segment of the duodenum. Both its morphological structure and functional performance are in a normal state."
+      }
+    ]
+  },
+  {
+    "id": "identity_13",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000388349.0049.10463500524.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the bulge of the stomach. It is evident that there is a large, irregular-shaped bulge, which exhibits significant congestion on its surface, accompanied by pronounced edema. Localized areas show signs of erosion, and the overall texture feels rough and uneven."
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000388349.0084.10591800631.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The esophageal mucosa presents a smooth and delicate texture, with the submucosal vascular patterns evenly distributed and their outlines clearly visible. Additionally, the esophagus exhibits normal contraction and peristaltic functions, with no signs of any abnormalities."
+      }
+    ]
+  },
+  {
+    "id": "identity_15",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000347044.0001.1479870030.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The mucosa of the esophageal inner wall presents a uniform and smooth condition, with the vascular patterns in the submucosal layer arranged in an orderly and clearly discernible manner. Additionally, the esophagus's contraction and peristaltic functions operate smoothly, with no abnormal manifestations observed."
+      }
+    ]
+  },
+  {
+    "id": "identity_16",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000347044.0004.1479870063.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the cardia of the stomach. The cardia is located approximately 40 centimeters away from the incisors, and the serrated line in this area appears particularly clear and distinct."
+      }
+    ]
+  },
+  {
+    "id": "identity_17",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000347044.0011.1479870142.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The mucosal surface of the duodenal bulb appears smooth, and upon careful examination, no signs of ulcerative lesions were detected.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_18",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201507020012.01.0001.1435797840.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the surface of the esophageal mucosa presents a smooth and delicate state, with the underlying vascular patterns evenly distributed and clearly discernible. Additionally, both the contraction and peristaltic functions of the esophagus are maintained within normal physiological ranges, indicating a good physiological condition."
+      }
+    ]
+  },
+  {
+    "id": "identity_19",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201507020012.01.0005.1435797904.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the antrum region of the stomach. The mucosa in the antrum region of the stomach exhibits significant hyperemia and edema, with a characteristic alternating red and white coloration, predominantly in red tones. Within this area, several superficial verrucous elevations can be observed, which, although not high, are clearly visible."
+      }
+    ]
+  },
+  {
+    "id": "identity_20",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201507020012.01.0016.1435798037.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosal surface of the gastric fundus of the stomach. The mucosal surface appears smooth, with no obvious abnormalities or rough areas. Additionally, the gastric mucus lake is clear and transparent, without any turbidity or impurities. The secretion volume is moderate, neither excessive nor insufficient, indicating an overall good condition."
+      }
+    ]
+  },
+  {
+    "id": "identity_21",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201405290003.01.0004.1401322267.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the cardia of the stomach. The position of the cardia is approximately 40 centimeters from the incisors. After a thorough examination, no abnormalities were found."
+      }
+    ]
+  },
+  {
+    "id": "identity_22",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201405290003.01.0026.1401322550.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the antrum region of the stomach. The mucosal surface in the antrum region appears relatively rough and uneven, displaying a color distribution of alternating red and white, with the red areas predominating and significantly outnumbering the white parts. This reflects that the mucosa may exhibit signs of certain inflammation or damage."
+      }
+    ]
+  },
+  {
+    "id": "identity_23",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201405290003.01.0020.1401322441.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosal surface of the duodenal bulb of the stomach. The surface appears smooth and even, and upon careful examination, no signs of ulcers or other abnormal lesions were detected."
+      }
+    ]
+  },
+  {
+    "id": "identity_24",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201510120041.01.0006.1444617452.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the cardia of the stomach. The cardia is located approximately 40 centimeters from the incisors, and the dentate line is clearly visible. After a thorough examination, no abnormalities or pathological changes were detected."
+      }
+    ]
+  },
+  {
+    "id": "identity_25",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201510120041.01.0019.1444617571.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the antrum region of the stomach. The mucosa in the antrum region of the stomach exhibits significant hyperemia and edema. The color distribution is characterized by an alternating pattern of red and white, with the red tone predominating. This reflects the presence of a certain degree of inflammatory response in this area."
+      }
+    ]
+  },
+  {
+    "id": "identity_26",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201410130074.01.0005.1413184311.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "No processing is done as the stomach position is not shown in the sentence."
+      }
+    ]
+  },
+  {
+    "id": "identity_27",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000366521.0003.1500950800.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the esophageal mucosa surface of the stomach. The esophageal mucosa surface is smooth and delicate, without any roughness or abnormal protrusions, presenting a good state of health; the vascular textures in the submucosal layer are evenly distributed, with clear and visible patterns, indicating a normal blood circulation condition; moreover, the esophagus exhibits normal contraction and peristaltic functions, with coordinated rhythm, effectively ensuring the smooth passage of food."
+      }
+    ]
+  },
+  {
+    "id": "identity_28",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000366521.0005.1500950811.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the cardia of the stomach. The position of the cardia is approximately 40 centimeters from the incisors, and the dentate line contour is clearly visible. After careful examination, no abnormalities were detected, and the overall presentation is within the normal range."
+      }
+    ]
+  },
+  {
+    "id": "identity_29",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000366521.0010.1500950883.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The mucosal surface of the duodenal bulb is smooth and delicate, with uniform coloration. Upon careful examination, no ulcers or any other signs of abnormal lesions were detected, indicating an overall good condition."
+      }
+    ]
+  },
+  {
+    "id": "identity_30",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000366521.0016.1500950920.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosa of the gastric antrum of the stomach. The mucosa exhibits significant hyperemia and edema, with an alternating red and white coloration, forming characteristic changes resembling a mottled pattern. On the surface of the mucosa, scattered wart-like elevations can be observed, which are visually prominent, further accentuating the abnormal state of the gastric antral mucosa."
+      }
+    ]
+  },
+  {
+    "id": "identity_31",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000366521.0022.1500950970.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosal surface of the gastric fundus of the stomach. The mucosal surface appears smooth, with no obvious abnormalities or rough changes. Additionally, the gastric mucus lake presents a clear and transparent state, without any turbidity or abnormal secretions. The amount of the mucus lake is moderate, neither excessive nor insufficient, maintaining a medium level."
+      }
+    ]
+  },
+  {
+    "id": "identity_32",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000369644.0017.09300500704.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosal surface of the stomach. The mucosal surface of the duodenal bulb is smooth, with uniform coloration. Upon careful observation, there are no signs of any ulcers or other abnormal lesions."
+      }
+    ]
+  },
+  {
+    "id": "identity_33",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000369644.0080.09374300792.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the esophageal mucosa of the stomach. The esophageal mucosa presents a smooth and flawless appearance, with the underlying vascular patterns being particularly distinct and recognizable. Additionally, both the contraction and peristaltic functions of the esophagus remain normal, indicating a healthy state of physiological activity."
+      }
+    ]
+  },
+  {
+    "id": "identity_34",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201409250016.02.0001.1411609947.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the cardiac orifice of the stomach. The cardiac orifice is located approximately 40 centimeters away from the incisors, and its dentate line structure appears particularly clear and distinct."
+      }
+    ]
+  },
+  {
+    "id": "identity_35",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201409250016.02.0019.1411610249.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the antral region of the stomach. The mucosa in the antral region exhibits significant congestion and edema, with the surface appearing rough and uneven. Additionally, in some localized areas, the thickness of the mucosa has decreased, presenting a thinned state. Moreover, the color distribution of the mucosa is uneven, with red and white intermingling to form a unique appearance resembling a mottled pattern."
+      }
+    ]
+  },
+  {
+    "id": "identity_36",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201409250016.02.0026.1411610319.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the anterior wall region of the stomach. In the anterior wall region of the duodenal bulb, near the greater curvature side, a linear ulcer scar can be observed. The presence of this scar has caused a slight deformation of the bulb cavity."
+      }
+    ]
+  },
+  {
+    "id": "identity_37",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201409250016.02.0028.1411610371.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the (Following a specific deformation pattern, it exhibits an orderly rhythm of dilation and contraction, accompanied by congestion and edema in the mucosal regions) of the stomach."
+      }
+    ]
+  },
+  {
+    "id": "identity_38",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201509100095.01.0002.1441874383.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The surface of the esophageal mucosa appears smooth and delicate, with the blood vessels in the submucosal layer evenly distributed and clearly discernible. The entire esophagus maintains normal contraction and peristaltic functions, indicating a good state of physiological activity.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_39",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000345884.0002.1478651391.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The esophageal mucosa presents a smooth and delicate texture, with the submucosal vascular patterns evenly distributed and clearly visible. The entire esophagus exhibits normal contraction and peristaltic functions, indicating good physiological activity."
+      }
+    ]
+  },
+  {
+    "id": "identity_40",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000345884.0017.1478651600.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the bottom of the stomach. The mucosa at the bottom of the stomach shows evident signs of hyperemia and edema, while concurrently, the mucinous lake within the stomach appears particularly clear and transparent."
+      }
+    ]
+  },
+  {
+    "id": "identity_41",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000345884.0030.1478651687.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosal surface of the gastric body of the stomach. The mucosal surface appears very smooth, and the rugae are arranged in a quite orderly manner. Upon careful observation, a superficial ulcerative lesion can be identified within it."
+      }
+    ]
+  },
+  {
+    "id": "identity_42",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201402080029.01.0001.1391826463.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the esophageal mucosa of the stomach. The esophageal mucosa presents a smooth and delicate surface, with the blood vessel textures in the submucosal layer evenly distributed and clearly discernible. Additionally, the esophagus maintains normal physiological rhythm and coordination in its contraction and peristaltic functions."
+      }
+    ]
+  },
+  {
+    "id": "identity_43",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201402080029.01.0012.1391826616.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the **anterior** of the stomach. A distinct ulcerative lesion can be observed, characterized by the complete disappearance of the mucosal folds. The mucosa surrounding the ulcer exhibits significant elevation, accompanied by pronounced congestion and edema. Additionally, the surface of the ulcer appears eroded, with the base covered by a layer of white, moss-like substance."
+      }
+    ]
+  },
+  {
+    "id": "identity_44",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000362899.0009.1497058039.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucous membrane of the stomach exhibiting mild hyperemia and edema, with its surface coloration alternating to form a pattern of red and white streaks, resembling an intricately detailed artistic texture."
+      }
+    ]
+  },
+  {
+    "id": "identity_45",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000362899.0014.1497058044.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucous membrane of the stomach. The mucous membrane exhibits mild hyperemia and edema, with its surface coloration alternating between red and white, forming a unique pattern resembling a mottled appearance."
+      }
+    ]
+  },
+  {
+    "id": "identity_46",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000362899.0020.1497058057.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The mucosa of the duodenal bulb exhibits significant hyperemia, and its surface is scattered with multiple hyperemic plaques of varying sizes. These plaques are unevenly distributed but all indicate an abnormally active state of local blood circulation."
+      }
+    ]
+  },
+  {
+    "id": "identity_47",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000362899.0021.1497058077.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the surface of the stomach. The surface of this segment of mucosa appears smooth, and upon careful observation, no signs of ulcers were detected."
+      }
+    ]
+  },
+  {
+    "id": "identity_48",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201606210052.01.0011.1466477433.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The mucosal surface of the duodenal bulb is smooth and even. After careful examination, no signs of any ulcers or other abnormal lesions were found."
+      }
+    ]
+  },
+  {
+    "id": "identity_49",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201606210052.01.0047.1466477977.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the surface of the stomach. Several obvious ulcerative lesions can be observed, along with multiple longitudinal arrangements of scar tissue. The surface mucosa appears relatively rough, and is coated with fresh blood traces as well as already formed hemorrhagic crusts."
+      }
+    ]
+  },
+  {
+    "id": "identity_50",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201606210052.01.0053.1466478183.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the cardia of the stomach. The location of the cardia is approximately 40 centimeters away from the incisors, and the serrated line is distinctly outlined and clearly visible."
+      }
+    ]
+  },
+  {
+    "id": "identity_51",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201608150043.01.0010.1471230351.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the obvious ulcerative area of the stomach, with the surrounding mucosa showing significant congestion and edema."
+      }
+    ]
+  },
+  {
+    "id": "identity_52",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201608150043.01.0032.1471231036.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucous membrane of the stomach. The mucous membrane exhibits significant congestion and edema, with the surface appearing rough and uneven. Additionally, a clearly defined ulcerative band can be observed, whose base is covered with a layer of white, moss-like substance."
+      }
+    ]
+  },
+  {
+    "id": "identity_53",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201602030051.01.0012.1454480533.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the antrum of the stomach. The mucosa in the antrum region exhibits significant hyperemia and edema, with a characteristic alternating red and white coloration, predominantly in red hues. During observation, it is evident that multiple areas of the mucosal surface appear rougher, accompanied by signs of erosion."
+      }
+    ]
+  },
+  {
+    "id": "identity_54",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000359062.0022.1493087582.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosa of the stomach. The mucosa exhibits distinct signs of hyperemia and edema, with an alternating red and white coloration, forming a typical mottled appearance. Within the observation area, two ulcerative lesions are clearly visible, with their bases covered by a layer of yellowish-white, moss-like substance. Simultaneously, the mucosa surrounding the ulcers presents a raised, dyke-like morphology, and the symptoms of hyperemia and edema in this region are particularly pronounced, further accentuating the abnormal condition of the affected area."
+      }
+    ]
+  },
+  {
+    "id": "identity_55",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000359062.0027.1493087649.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the gastric fundus of the stomach. The mucosal surface of the gastric fundus appears smooth and flawless, with the mucus lake looking clear and translucent, and its secretion volume is moderate, neither excessive nor insufficient."
+      }
+    ]
+  },
+  {
+    "id": "identity_56",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000359062.0075.1493088410.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the esophageal mucosal surface of the stomach. The esophageal mucosal surface is smooth and delicate, with no obvious roughness or abnormal protrusions, displaying a healthy luster. The vascular patterns in the submucosal layer are evenly distributed, with clear and discernible脉络, showing no signs of dilation, tortuosity, or other abnormalities. Additionally, the esophagus exhibits normal contraction and peristaltic functions, with coordinated rhythm and appropriate amplitude, fully demonstrating the good physiological state of the esophagus."
+      }
+    ]
+  },
+  {
+    "id": "identity_57",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000342883.0003.1475195275.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the cardiac orifice of the stomach. The cardiac orifice is located approximately 40 centimeters from the incisors, with its dentate line distinctly demarcated and clearly discernible."
+      }
+    ]
+  },
+  {
+    "id": "identity_58",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000342883.0005.1475195303.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The photo shows the mucosal surface of the stomach. The mucosal surface of the duodenal bulb is smooth and even, with normal coloration. Upon careful examination, no ulcerative lesions or other abnormalities were detected."
+      }
+    ]
+  },
+  {
+    "id": "identity_59",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000342883.0043.1475196098.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the **anterior wall** of the stomach. A distinct white ulcerative lesion can be observed, with its surface covered by a layer of white moss-like substance. Surrounding the ulcer, the mucosa exhibits mild hyperemia and edema. Apart from this, the mucosa in other areas remains smooth and unremarkable, and the vascular patterns beneath the mucosa are clearly visible."
+      }
+    ]
+  },
+  {
+    "id": "identity_60",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000342883.0052.1475196496.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the multiple areas of the stomach characterized by a notable distribution of flaky orange-red mucosa, which is distinctly visible, demonstrating this flaky orange-red mucosal appearance."
+      }
+    ]
+  },
+  {
+    "id": "identity_61",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000356760.0058.1490750849.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the esophageal mucosa of the stomach. The esophageal mucosa presents a uniform and smooth surface, beneath which the vascular patterns appear delicate and clearly discernible. Simultaneously, the esophagus maintains normal physiological rhythms in its contraction and peristaltic functions, with no signs of any abnormality."
+      }
+    ]
+  },
+  {
+    "id": "identity_62",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201412250075.01.0004.1419481240.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The mucosal surface of the esophageal inner wall presents a smooth and delicate state. The vascular patterns distributed in the submucosal layer are clearly discernible. Additionally, both the contraction and peristaltic functions of the esophagus are demonstrated to be normal, with no signs of abnormalities observed."
+      }
+    ]
+  },
+  {
+    "id": "identity_63",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201412250075.01.0011.1419481328.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the antrum region of the stomach. The mucosa in the antrum region of the stomach exhibits significant hyperemia and edema, with an alternating red and white coloration that is unevenly distributed. Additionally, multiple superficial erosions are scattered within this area, indicating a relatively active local inflammatory response."
+      }
+    ]
+  },
+  {
+    "id": "identity_64",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201412250075.01.0031.1419481511.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosal surface of the gastric fundus of the stomach. The mucosal surface exhibits a uniform and smooth texture, with no apparent abnormal protrusions or rough areas; concurrently, the mucinous lake within the stomach appears clear and transparent, devoid of turbidity or impurities. The secretion volume is moderate, neither excessive nor insufficient, indicating an overall good condition."
+      }
+    ]
+  },
+  {
+    "id": "identity_65",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201506010011.01.0012.1433119738.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosa of the stomach. The mucosa exhibits significant hyperemia and edema, while the mucinous lake appears unusually turbid, with its color presenting varying shades of coffee brown, giving a clear indication of a pathological state."
+      }
+    ]
+  },
+  {
+    "id": "identity_66",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201506010011.01.0015.1433119812.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the interior of the stomach. It is obvious that there is a large ulcer with an extremely irregular shape, and its base is covered with a layer of dark, seemingly filthy substance resembling a coating on the tongue."
+      }
+    ]
+  },
+  {
+    "id": "identity_67",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201506010011.01.0023.1433120216.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the esophageal mucosa of the stomach. The esophageal mucosa shows evident hyperemia and edema, while the vascular patterns in the submucosal layer appear somewhat blurred and not clearly distinguishable."
+      }
+    ]
+  },
+  {
+    "id": "identity_68",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201411060033.01.0011.1415238724.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the red ulcerative scar of the stomach, accompanied by significant congestion and edema."
+      }
+    ]
+  },
+  {
+    "id": "identity_69",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000381976.0010.11584700176.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosa of the stomach. The mucosa exhibits distinct signs of hyperemia and edema, with its color alternating between red and white, forming characteristic changes resembling a mottled pattern."
+      }
+    ]
+  },
+  {
+    "id": "identity_70",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000381976.0039.12004600092.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosal surface of the stomach. The mucosal surface of the gastric fundus exhibits a uniform and smooth texture, with the overlying mucus lake appearing clear and translucent, devoid of any abnormal turbidity or impurities."
+      }
+    ]
+  },
+  {
+    "id": "identity_71",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201505200016.01.0002.1432083450.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the esophageal mucosal surface of the stomach. The esophageal mucosal surface is smooth and delicate, with no obvious abnormal protrusions or rough areas, presenting a healthy, sleek appearance. The vascular textures in the submucosal layer are clearly defined and evenly distributed, revealing a distinct venous pattern, much like an exquisite microcirculatory tapestry. Additionally, the esophagus exhibits normal contraction and peristaltic functions, with coordinated rhythm, strong yet gentle, fully ensuring the smooth propulsion of food through the digestive tract."
+      }
+    ]
+  },
+  {
+    "id": "identity_72",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201505200016.01.0007.1432083462.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the cardia of the stomach. The cardia is approximately 40 centimeters away from the incisors, and the serrated line contour is clearly visible."
+      }
+    ]
+  },
+  {
+    "id": "identity_73",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201505200016.01.0029.1432083986.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosal surface of the gastric body of the stomach. The mucosal surface exhibits a smooth and delicate texture, with its folds arranged in an orderly and uniform manner, showing no signs of any abnormal protrusions or disarray."
+      }
+    ]
+  },
+  {
+    "id": "identity_74",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201608080048.01.0023.1470627235.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the apex of the stomach. Upon careful observation, it is clearly visible that the flaky mucosal surface exhibits a rough texture, accompanied by localized raised erosions. Moreover, the apex of these raised areas also displays a concave characteristic."
+      }
+    ]
+  },
+  {
+    "id": "identity_75",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201608080048.01.0073.1470627911.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The esophageal mucosa presents a smooth and delicate surface, with the vascular patterns in the submucosal layer being particularly distinct and recognizable. Additionally, both the contraction and peristaltic functions of the esophagus exhibit normal physiological activity characteristics."
+      }
+    ]
+  },
+  {
+    "id": "identity_76",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201512010001.01.0009.1448929331.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the mucosal surface of the stomach. The mucosal surface appears smooth and delicate. Upon careful examination, no signs of ulcers or other abnormal lesions were detected."
+      }
+    ]
+  },
+  {
+    "id": "identity_77",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201512010001.01.0021.1448929488.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the central part of the stomach, with an obvious ulcer that can be observed. The mucosa at its edges is showing signs of hyperemia and edema, while the central part of the ulcer has already become eroded."
+      }
+    ]
+  },
+  {
+    "id": "identity_78",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.201512010001.01.0023.1448929521.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the antrum region of the stomach. The mucosa in the antrum region of the stomach exhibits significant hyperemia and edema, with a coloration that is characterized by an alternating red and white pattern, where the red color predominates and appears particularly prominent."
+      }
+    ]
+  },
+  {
+    "id": "identity_79",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000344739.0007.1477452277.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the cardia of the stomach. The position of the cardia is approximately 40 centimeters away from the incisors, and the contour of the dentate line is clearly visible, with no obvious abnormal findings."
+      }
+    ]
+  },
+  {
+    "id": "identity_80",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Observe this endoscopic image and describe the gastric features presented in the image. <|vision_start|>/data2/zhangxy/med_llm/data/sage2images_80/IMG_01.0000000344739.0017.1477452360.jpg<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The image presents the antrum region of the stomach. The mucosa in the antrum region of the stomach shows significant signs of hyperemia and edema, with an intermingling of red and white hues but predominantly red in color, indicating that there may be some degree of inflammation or pathological condition present in this area."
+      }
+    ]
+  }
+]
